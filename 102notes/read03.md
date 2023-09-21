@@ -4,8 +4,8 @@
 
 *__2. What is cloning in Git?__* Makes a copy of all versions of all files of a project.
 
-*__3. What is the command to track and stage files?__* For one file= git add filename; For all files= git add *
+*__3. What is the command to track and stage files?__* For one file  = git add filename; For all file = git add .
 
 *__4. What is the command to take a snapshot of your changed files?__* git commit -a
 
-*__5. What is the command to send your changed files to Github?__* $ git push origin master
+*__5. What is the command to send your changed files to Github?__* git push origin main
