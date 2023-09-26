@@ -2,7 +2,7 @@
 
 ## *Hello World*
 
-[my Github] (<https://jennh167.github.io/reading-notes/>)
+[my Github](<https://jennh167.github.io/reading-notes/>)
 
 🤝
 
@@ -12,18 +12,18 @@
 
 ## *Table of Contents*
 
-- Class 102
+- __Class 102__
 
-1. Read 1 <https://jennh167.github.io/reading-notes/102notes/read01>
-2. Read 2 <https://jennh167.github.io/reading-notes/102notes/read02>
-3. Read 3 <https://jennh167.github.io/reading-notes/102notes/read03>
-4. Read 4
+1. [Read 1](<https://jennh167.github.io/reading-notes/102notes/read01>)
+2. [Read 2](<https://jennh167.github.io/reading-notes/102notes/read02>)
+3. [Read 3](<https://jennh167.github.io/reading-notes/102notes/read03>)
+4. [Read 4]
 5. Read 5
 6. Read 6
 7. Read 7
 8. Read 8
 
-- Class 201
+- __Class 201__
 
 1. Read 1
 2. Read 2
