@@ -6,7 +6,7 @@
 
 ### *__MY BIO__*
 
-> Hi, My name is Jenn Hoskinson. I've been married to my hubby for 21 yrs and we live in Spanaway, WA. We have 4 kiddos ages 20, 17, 15, and 12 as well as lots of cats and dogs. I'm excited to start this new journey in coding with Code Fellows! Nice to have you joining me!
+> Hi, My name is Jenn Hoskinson. I've been married to my hubby for 21 yrs and we live in Spanaway, WA. We have 4 kiddos ages 20, 17, 15, and 12 as well as lots of cats and dogs. This page will showcase my growth and I'm excited to start this new journey in coding with Code Fellows! Nice to have you joining me!
 
 # Reading Notes
 
@@ -21,8 +21,7 @@
 5. [Read 5](102notes/read05.md)
 6. [Read 6](102notes/read06.md)
 7. [Read 7](102notes/read07.md)
-8. [Read 8](102notes/read08.md)
-
+ 
 ## __Code 201 - Foundations of Software Development__
 
 1. [Read 1](201notes/read01.md)
