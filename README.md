@@ -1,6 +1,6 @@
 # Welcome to My Fun Zone
 
-## *Hello World*
+## *Hello Fellow Creatives*
 
 # 🤝
 
@@ -8,9 +8,11 @@
 
 > Hi, My name is Jenn Hoskinson. I've been married to my hubby for 21 yrs and we live in Spanaway, WA. We have 4 kiddos ages 20, 17, 15, and 12 as well as lots of cats and dogs. I'm excited to start this new journey in coding with Code Fellows! Nice to have you joining me!
 
+# Reading Notes
+
 ### *Table of Contents*
 
-##### __Class 102__
+## __Code 102 - Intro to Software Development__
 
 1. [Read 1](102notes/read01.md)
 2. [Read 2](102notes/read02.md)
@@ -21,7 +23,7 @@
 7. [Read 7](102notes/read07.md)
 8. [Read 8](102notes/read08.md)
 
-##### __Class 201__
+## __Code 201 - Foundations of Software Development__
 
 1. [Read 1](201notes/read01.md)
 2. [Read 2](201notes/read02.md)
@@ -38,3 +40,7 @@
 13. [Read 13](201notes/read13.md)
 14. [Read 14](201notes/read14.md)
 15. [Read 15](201notes/read15.md)
+
+## __Code 301 - Intermediate Software Development__
+
+## __Code 401 - Advanced Software Development__
