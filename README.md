@@ -14,7 +14,7 @@
 
 ## __Code 102 - Intro to Software Development__
 
-1. [Read 1](102notes/read01.md)
+1. [Read 1](/read01.md)
 2. [Read 2](102notes/read02.md)
 3. [Read 3](102notes/read03.md)
 4. [Read 4](102notes/read04.md)
