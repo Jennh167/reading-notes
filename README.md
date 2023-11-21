@@ -43,3 +43,7 @@
 ## __Code 301 - Intermediate Software Development__
 
 ## __Code 401 - Advanced Software Development__
+
+## Things I Want To Know More About
+
+1. Why do spaces kill things like titles and variables?
