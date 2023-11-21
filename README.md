@@ -14,31 +14,31 @@
 
 ## __Code 102 - Intro to Software Development__
 
-1. [Read 1](/read01.md)
-2. [Read 2](102notes/read02.md)
-3. [Read 3](102notes/read03.md)
-4. [Read 4](102notes/read04.md)
-5. [Read 5](102notes/read05.md)
-6. [Read 6](102notes/read06.md)
-7. [Read 7](102notes/read07.md)
+1. [Read 1](Code102/read01.md)
+2. [Read 2](Code102/read02.md)
+3. [Read 3](Code102/read03.md)
+4. [Read 4](Code102/read04.md)
+5. [Read 5](Code102/read05.md)
+6. [Read 6](Code102/read06.md)
+7. [Read 7](Code102/read07.md)
  
 ## __Code 201 - Foundations of Software Development__
 
-1. [Read 1](201notes/read01.md)
-2. [Read 2](201notes/read02.md)
-3. [Read 3](201notes/read03.md)
-4. [Read 4](201notes/read04.md)
-5. [Read 5](201notes/read05.md)
-6. [Read 6](201notes/read06.md)
-7. [Read 7](201notes/read07.md)
-8. [Read 8](201notes/read08.md)
-9. [Read 9](201notes/read09.md)
-10. [Read 10](201notes/read10.md)
-11. [Read 11](201notes/read11.md)
-12. [Read 12](201notes/read12.md)
-13. [Read 13](201notes/read13.md)
-14. [Read 14](201notes/read14.md)
-15. [Read 15](201notes/read15.md)
+1. [Read 1](Code201/read01.md)
+2. [Read 2](Code201/read02.md)
+3. [Read 3](Code201/read03.md)
+4. [Read 4](Code201/read04.md)
+5. [Read 5](Code201/read05.md)
+6. [Read 6](Code201/read06.md)
+7. [Read 7](Code201/read07.md)
+8. [Read 8](Code201/read08.md)
+9. [Read 9](Code201/read09.md)
+10. [Read 10](Code201/read10.md)
+11. [Read 11](Code201/read11.md)
+12. [Read 12](Code201/read12.md)
+13. [Read 13](Code201/read13.md)
+14. [Read 14](Code201/read14.md)
+15. [Read 15](Code201/read15.md)
 
 ## __Code 301 - Intermediate Software Development__
 
