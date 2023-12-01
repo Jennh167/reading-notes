@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab 01</title>
+    <style>
+      body {
+        background-color: black;
+      }
+
+      h1 {
+        background-color: aquamarine;
+        color: purple;
+        width: max-content; display: inline-block;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Lab 01 Fun</h1>
+    </header>
+    <main>
+      <p style="background-color:yellowgreen; color: cadetblue; width: max-content; display: inline-block;">What should I call you?</p>
+      <p style="background-color:purple; color: rgb(173, 231, 233); width: max-content; display: inline-block;">What city do you call home?</p>
+      <p style="background-color:blue; color: pink; width: max-content; display: inline-block;">What state is that in again?</p>
+      <p style="background-color:yellow; color: red; width: max-content; display: inline-block;">What's the best time of year to visit?</p>
+    </main>
+    <footer>
+      <h6 style="background-color: coral; color: black; width: max-content; display: inline-block;">Presented by Jenn Hoskinson</h6>
+    </footer>
+    <script>
+      console.log("Hello World");
+
+      let questionOneResponse = prompt("What should I call you?");
+      alert('Great to have you ' + questionOneResponse + '!');
+
+      let questionTwoResponse = prompt("What city do you call home?");
+      alert(questionOneResponse + ', ' + questionTwoResponse + ' must be nice!');
+
+      let questionThreeResponse = prompt("What state is that in again?");
+      alert(questionTwoResponse + ', ' + questionThreeResponse + ' ' + 'sounds like a great place to visit ' + questionOneResponse + '!');
+
+      let questionFourResponse = prompt("What's the best time of year to visit?");
+      alert("Wow " + questionOneResponse + ", I'll make sure to visit " + questionTwoResponse + ', ' + questionThreeResponse + ' in the ' + questionFourResponse + ' then!');
+
+    </script>
+  </body>
+</html>
